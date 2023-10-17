@@ -1,0 +1,18 @@
+table {
+    margin: 0 auto;
+    border: 1px solid black;
+  }
+  
+  td, th {
+    text-align: center;
+    font-family: cursive;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  a:visited { 
+    text-decoration: none; 
+    color: blue; 
+   }
