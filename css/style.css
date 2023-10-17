@@ -1,18 +1,37 @@
 table {
-    margin: 0 auto;
-    border: 1px solid black;
+  margin: 0 auto;
+  border-spacing: 40px 0;
+}
+
+td, th {
+  text-align: center;
+  font-family: cursive;
+  font-size: x-large;
+}
+
+td, th a{
+  color: white !important;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: helvetica;
+}
+
+a:visited { 
+  text-decoration: none; 
+
   }
-  
-  td, th {
-    text-align: center;
-    font-family: cursive;
+
+  .navbar {
+  text-align: center;
+  background-color: rgb(148, 35, 148);
+  font-family: Helvetica;
+  padding-top: 1%;
+  padding-bottom: 1%;
   }
-  
-  h1 {
-    text-align: center;
-  }
-  
-  a:visited { 
-    text-decoration: none; 
-    color: blue; 
-   }
+
+body {
+  background-color: lavender;
+}
