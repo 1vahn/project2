@@ -85,7 +85,7 @@ ul {
 
 @font-face {
   font-family: "Fortnite";
-  src: url("fonts/fortnite.ttf") format("truetype"),
+  src: url("fonts/fortnite.ttf") format("truetype");
 }
 
 .fortnite {
