@@ -55,6 +55,7 @@ div {
   background-color: wheat;
   width: 60%;
   border-radius: 2%;
+  line-height: 125%;
 }
 
 .text {
@@ -71,4 +72,27 @@ ul {
 
 .clean {
   color: blue;
+}
+
+img {
+  width: 25%;
+  height: auto;
+}
+
+.centerspace {
+  padding-top: 1%;
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+@font-face {
+  font-family: "Fortnite";
+  src: url("fonts/fortnite.ttf") format("truetype"),
+}
+
+.fortnite {
+  font-family: "Fortnite";
 }
