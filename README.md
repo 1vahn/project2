@@ -1,1 +1,0 @@
-Files for Project 1 of ITMD-361. This repository will hold the website files and necessary media.
