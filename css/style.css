@@ -1,6 +1,7 @@
 h1 {
   text-align: center;
   font-family: helvetica;
+  float: none;
 }
 
 a:visited { 
@@ -22,7 +23,7 @@ a:visited {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 16px;
+  padding: 1rem 1.2rem;
   text-decoration: none;
 }
 
@@ -105,4 +106,25 @@ iframe {
 .small {
   width: 25%;
   height: auto;
+}
+
+.divfloat {
+  float: left;
+  display: flex;
+}
+
+.divright {
+  float: right;
+  display: block;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 1rem;
+  align-items: center;
+}
+
+.fixedimg {
+  width: 9cm;
 }
