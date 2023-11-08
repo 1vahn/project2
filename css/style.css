@@ -128,3 +128,7 @@ iframe {
 .fixedimg {
   width: 9cm;
 }
+
+.bottompad {
+  padding-bottom: 2%;
+}
